@@ -12,7 +12,7 @@ A Fixed Coupon Note pays a fixed monthly coupon. Each month, if **all** underlyi
 
 In option terms, the investor is **selling a put option on the worst of several stocks**. The high coupon is the premium for that risk.
 
-![Payoff](figures/01_payoff.png)
+![Payoff](01_payoff.png)
 
 ## Product terms modelled
 
@@ -37,9 +37,9 @@ In option terms, the investor is **selling a put option on the worst of several 
 
 RESULTS_PLACEHOLDER
 
-![Scenarios](figures/03_scenarios.png)
-![Sensitivity](figures/04_sensitivity.png)
-![Back-test](figures/05_backtest.png)
+![Scenarios](03_scenarios.png)
+![Sensitivity](04_sensitivity.png)
+![Back-test](05_backtest.png)
 
 ## Limitations
 
